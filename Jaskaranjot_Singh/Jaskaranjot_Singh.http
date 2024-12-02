@@ -1,0 +1,6 @@
+@Jaskaranjot_Singh_HostAddress = http://localhost:5068
+
+GET {{Jaskaranjot_Singh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
